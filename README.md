@@ -12,7 +12,7 @@ like [pkg](https://www.npmjs.com/package/pkg))
 - Windows
 - Linux (X11)
 
-## What's new in 2.2.0
+## What's new in 2.2.1
 
 - Windows terminal support (thanks to GitHub user [titushm](https://github.com/titushm))
 
