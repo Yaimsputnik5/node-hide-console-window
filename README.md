@@ -14,7 +14,7 @@ like [pkg](https://www.npmjs.com/package/pkg))
 
 ## What's new in 2.2.1
 
-- Linux support (thanks to GitHub user [titushm](https://github.com/Yaimsputnik5))
+- Linux support (thanks to GitHub user [Yaimsputnik5](https://github.com/Yaimsputnik5))
 
 ## Warning
 
