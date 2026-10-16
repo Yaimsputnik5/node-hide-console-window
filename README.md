@@ -14,7 +14,7 @@ like [pkg](https://www.npmjs.com/package/pkg))
 
 ## What's new in 2.2.1
 
-- Windows terminal support (thanks to GitHub user [titushm](https://github.com/titushm))
+- Linux support (thanks to GitHub user [titushm](https://github.com/Yaimsputnik5))
 
 ## Warning
 
