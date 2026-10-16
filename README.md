@@ -10,6 +10,7 @@ like [pkg](https://www.npmjs.com/package/pkg))
 ### Platforms
 
 - Windows
+- Linux (X11)
 
 ## What's new in 2.2.0
 
